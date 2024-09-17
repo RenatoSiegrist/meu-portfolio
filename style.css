@@ -1,0 +1,11 @@
+body {
+    padding-top: 56px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.container {
+    margin-top: 20px;
+}
